@@ -2,11 +2,13 @@ class Solution {
 public:
     string reverseWords(string s) {
         stack<string> st;
-        string word;
-        string res;
+        string word, res;
         for(int i=0;i<s.length();i++)
         {
-            if(s[i]!=' ') word+=s[i];
+            if(s[i]!=' ')
+            {
+                word+=s[i];
+            }
             else
             {
                 if(!word.empty())
@@ -17,9 +19,9 @@ public:
             }
         }
         if(!word.empty()) st.push(word);
-
-        while(!st.empty()){ 
-            res+=st.top()+" "; 
+        while(!st.empty())
+        {
+            res+=st.top()+" ";
             st.pop();
         }
         res.pop_back();
