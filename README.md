@@ -12,8 +12,17 @@ Daily Leetcode Practice
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Red-0111/Leetcode/tree/master/0344-reverse-string) |
+| [1044-find-common-characters](https://github.com/Red-0111/Leetcode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Red-0111/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Red-0111/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/Red-0111/Leetcode/tree/master/1044-find-common-characters) |
+# Hash Table
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/Red-0111/Leetcode/tree/master/1044-find-common-characters) |
