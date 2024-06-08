@@ -23,12 +23,14 @@ Daily Leetcode Practice
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Red-0111/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Red-0111/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Red-0111/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Red-0111/Leetcode/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Red-0111/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Red-0111/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Red-0111/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Red-0111/Leetcode/tree/master/1044-find-common-characters) |
@@ -40,3 +42,11 @@ Daily Leetcode Practice
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Red-0111/Leetcode/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Red-0111/Leetcode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Red-0111/Leetcode/tree/master/0523-continuous-subarray-sum) |
