@@ -18,12 +18,14 @@ Daily Leetcode Practice
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Red-0111/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Red-0111/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Red-0111/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Red-0111/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Red-0111/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Red-0111/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Red-0111/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Red-0111/Leetcode/tree/master/0876-hand-of-straights) |
@@ -43,6 +45,7 @@ Daily Leetcode Practice
 # Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Red-0111/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Red-0111/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Red-0111/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Red-0111/Leetcode/tree/master/1217-relative-sort-array) |
@@ -64,3 +67,7 @@ Daily Leetcode Practice
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Red-0111/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Red-0111/Leetcode/tree/master/1217-relative-sort-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Red-0111/Leetcode/tree/master/0502-ipo) |
