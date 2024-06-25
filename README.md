@@ -88,3 +88,19 @@ Daily Leetcode Practice
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Red-0111/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Red-0111/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Red-0111/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Red-0111/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Red-0111/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
